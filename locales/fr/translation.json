@@ -1,0 +1,10 @@
+{
+  "welcome": "Bienvenue à MoonBase!",
+  "welcome-description": "MoonBase est une application pour vous aider à gérer votre maison",
+  "moonRoom": "Inventaire",
+  "moonRoom-description": "MoonRoom est une application pour vous aider à gérer votre maison",
+  "moonCrew": "Équipage",
+  "moonCrew-description": "Les besoins de l'équipage sont variés, vêtements, accessoires...",
+  "moonGrocery": "Garde-manger / Nourriture",
+  "moonGrocery-description": "Yummy Yummy, le garde-manger est l'endroit où sont stockés les aliments"
+}

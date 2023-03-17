@@ -1,0 +1,10 @@
+{
+  "welcome": "Bienvenido a MoonBase!",
+  "welcome-description": "MoonBase es una aplicación que te ayuda a gestionar tu hogar",
+  "moonRoom": "Inventario",
+  "moonRoom-description": "MoonRoom es una aplicación que te ayuda a gestionar tu hogar",
+  "moonCrew": "La tripulación",
+  "moonCrew-description": "Las necesidades de la tripulación son variadas, ropa, accesorios...",
+  "moonGrocery": "Despensa / Alimentos",
+  "moonGrocery-description": "Yummy Yummy, la despensa es un lugar donde se almacenan los alimentos"
+}
